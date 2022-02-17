@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mhcb.syd.Encryption", "mhcb.syd.Encryption\mhcb.syd.Encryption.csproj", "{301A8F87-A902-469B-8BC7-EC1802BA749E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption.App", "Encryption.App\Encryption.App.csproj", "{26155F69-F5F8-4B7F-868C-B4BBBCABBAD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{301A8F87-A902-469B-8BC7-EC1802BA749E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301A8F87-A902-469B-8BC7-EC1802BA749E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301A8F87-A902-469B-8BC7-EC1802BA749E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{301A8F87-A902-469B-8BC7-EC1802BA749E}.Debug|x86.Build.0 = Debug|Any CPU
+		{301A8F87-A902-469B-8BC7-EC1802BA749E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301A8F87-A902-469B-8BC7-EC1802BA749E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{301A8F87-A902-469B-8BC7-EC1802BA749E}.Release|x86.ActiveCfg = Release|Any CPU
+		{301A8F87-A902-469B-8BC7-EC1802BA749E}.Release|x86.Build.0 = Release|Any CPU
+		{26155F69-F5F8-4B7F-868C-B4BBBCABBAD7}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{26155F69-F5F8-4B7F-868C-B4BBBCABBAD7}.Debug|x86.ActiveCfg = Debug|x86
+		{26155F69-F5F8-4B7F-868C-B4BBBCABBAD7}.Debug|x86.Build.0 = Debug|x86
+		{26155F69-F5F8-4B7F-868C-B4BBBCABBAD7}.Release|Any CPU.ActiveCfg = Release|x86
+		{26155F69-F5F8-4B7F-868C-B4BBBCABBAD7}.Release|x86.ActiveCfg = Release|x86
+		{26155F69-F5F8-4B7F-868C-B4BBBCABBAD7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {756688E2-0C8B-4F6F-B5E9-BC6A190B24F4}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://bli1962.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = mhcb.syd.Encryption\\mhcb.syd.Encryption.csproj
+		SccProjectName1 = mhcb.syd.Encryption
+		SccLocalPath1 = mhcb.syd.Encryption
+		SccProjectUniqueName2 = Encryption.App\\Encryption.App.csproj
+		SccProjectName2 = Encryption.App
+		SccLocalPath2 = Encryption.App
+	EndGlobalSection
+EndGlobal

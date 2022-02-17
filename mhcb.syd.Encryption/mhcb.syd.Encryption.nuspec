@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+	<id>$id$</id>
+    <version>1.0.0</version>
+    <title>MIZUHO</title>
+    <authors>Ben Li</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>http://mizuho.com.au</projectUrl>
+    <iconUrl>http://mizuho.com.au/</iconUrl>
+    <description>Mizuho EnCode / DeCode Component</description>
+    <releaseNotes>The release of the package.</releaseNotes>
+    <copyright>Mizuho Bank Sydney</copyright>
+    <tags>Mizuho Sydney</tags>	
+  </metadata>
+</package>
